@@ -1,0 +1,10 @@
+The Avengers;Disember 2007;James Conor;B;false
+The Ant Man;January 2008;Ahmad Conor;A;true
+Batman vs Ironman;March 2008;David teo;B;true
+Spiderman No Way Home;March 2021;James Brooke;A;false
+Mat Kilau 2;March 2024;David Beckham;A;true
+Batman vs Ironman;March 2008;Laila Majnun;B;false
+Dilwale;July 2010;Natasha Romanoff;B;true
+Thor the Darkworld;November 2020;Tony Stark;A;true
+Alien vs Godzilla;October 2016;Chris Evans;A;false
+Jurassic World vs Fast and Furious;March 2030;Azriel Amiezal;B;false
